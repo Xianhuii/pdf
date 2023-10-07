@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca87ae76-cbe1-4a42-9c94-a3bf890ee10f</dc:identifier>
+        <dc:title>The Definitive Guide to SQLite, Second Edition (Expert's Voice in Open Source)</dc:title>
+        <dc:creator opf:file-as="Grant Allen, Mike Owens [未知]" opf:role="aut">Mike Owens [未知] Grant Allen</dc:creator>
+        <dc:creator opf:file-as="Grant Allen, Mike Owens [未知]" opf:role="aut">chenjin5.com</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-02T01:28:53.370788+00:00</dc:date>
+        <dc:publisher>chenjin5.com 万千书友聚集地</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">1430232250</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">86fb6900-366c-4d7b-8403-4b7f8f42c261</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>chenjin5.com沉金书屋</dc:subject>
+        <meta name="calibre:timestamp" content="2023-09-05T14:51:53.907428+00:00"/>
+        <meta name="calibre:title_sort" content="Definitive Guide to SQLite, Second Edition (Expert's Voice in Open Source), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

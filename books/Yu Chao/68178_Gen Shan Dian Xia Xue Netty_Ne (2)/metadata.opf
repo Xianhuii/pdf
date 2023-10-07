@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3fb8e79-9724-460a-94b0-eef006eea3f1</dc:identifier>
+        <dc:title>68178_跟闪电侠学Netty：Netty即时聊天实战与底层原理_俞超</dc:title>
+        <dc:creator opf:file-as="俞超" opf:role="aut">俞超</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>本书分上下两篇。上篇通过一个即时聊天系统的实战案例，让读者能够系统地使用一遍Netty，全面掌握Netty的知识点；下篇通过对源码的层层剖析，让读者能够掌握Netty底层原理，知其然并知其所以然，从而编写出高性能网络应用程序。
+
+如果你想全面系统地学习Netty，并掌握一些性能调优方法，本书上篇可以帮助你完成这个目标。如果你想深入了解Netty的底层设计，编写出更灵活高效的网络通信程序，本书下篇可以帮助你完成这个目标。如果你从未读过开源框架源码，本书将是你的本源码指导书，读源码并不难，难的是迈出这一小步，之后就能通往更广阔的世界。</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>网络编程</dc:subject>
+        <meta name="calibre:timestamp" content="2023-08-28T13:15:48+00:00"/>
+        <meta name="calibre:title_sort" content="68178_跟闪电侠学Netty：Netty即时聊天实战与底层原理_俞超"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
